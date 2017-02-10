@@ -1,0 +1,26 @@
+{
+  "name": "electron-soundcloud-demo",
+  "version": "1.0.0",
+  "description": "An electron app that plays soundcloud songs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chagall/electron-soundcloud-demo.git"
+  },
+  "keywords": [
+    "soundclound"
+  ],
+  "author": "Fábio A. M. Pereira",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Chagall/electron-soundcloud-demo/issues"
+  },
+  "homepage": "https://github.com/Chagall/electron-soundcloud-demo#readme",
+  "devDependencies": {
+    "electron": "^1.4.15"
+  }
+}
